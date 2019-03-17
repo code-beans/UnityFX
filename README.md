@@ -1,6 +1,6 @@
 # UnityFX
 
-DocFX Template to create Unity-esque code documentation.
+DocFX Template to create Unity-esque code documentation. [Demo](https://code-beans.github.io/UnityFX/articles/intro.html)
 
 ## Changes from Default Template
 
